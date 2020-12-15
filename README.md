@@ -1,5 +1,5 @@
 <h1 align="center">Hello! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
-<p>I am <b>Palash</b>, a <b>Computer Science Undergrad</b>, currently exploring some cool technologies. I love to contribute to open source and believe in building with collaboration.I like to adapt new technologies </br>
+<p>I am <b>Palash</b>, a <b>Computer Science Undergrad</b>, currently exploring some cool technologies. I love to contribute to open source and believe in building with collaboration.I like to adapt new technologies. I Love doing experiments on different-different things</br>
 If not working, you can find me eating, sleeping or playing online games and watching webseries :)</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palash9561" alt="palash9561" /> </p>
